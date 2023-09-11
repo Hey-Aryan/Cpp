@@ -1,7 +1,7 @@
 # Cpp
 This Self Referential Repository contains Basic Conceptual Code of Object Oriented Programming in C++
 
-Concepts Covered
+Concepts Covered are : 
 o Characteristics of C++
 o Data Types concepts
 o Numbering systems
